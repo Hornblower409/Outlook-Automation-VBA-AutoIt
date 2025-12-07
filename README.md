@@ -12,5 +12,5 @@ Collection of Outlook VBA and AutoIt Scripts to help automate Outlook.
 * Helpers for generating and managing Hyperlinks between Outlook items.
 * Helpers for IMAP accounts.
 * Enhanced MsgBox wrapper.
-* Execute an Outlook VBA Macro from an AutoIt Script.
+* Execute an Outlook VBA Sub/Func (with arguments) from an AutoIt Script.
 * Lock Outlook Views to prevent accidental changes.
