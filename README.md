@@ -1,16 +1,16 @@
 # Outlook-Automation-VBA-AutoIt
 Collection of Outlook VBA and AutoIt Scripts to help automate Outlook.
 
-* Classes to track events from multiple Outlook Explorers and Inspectors.
-* Windows Timers VBA wrapper class.
-* Calendar Date Picker VBA form.
-* Helpers to manage Outlook Categories.
-* Remove excess paragraphs and formatting from email responses.
-* Replace Custom Form VBScript with VBA.
-* Flag for Follow Up custom form and support functions.
-* Wrappers for common Word Editor operations.
-* Helpers for generating and managing Hyperlinks between Outlook items.
-* Helpers for IMAP accounts.
-* Enhanced MsgBox wrapper.
-* Execute an Outlook VBA Sub/Func (with arguments) from an AutoIt Script.
-* Lock Outlook Views to prevent accidental changes.
+* Classes to track events from multiple Outlook Explorers and Inspectors (...Shadow)
+* Windows Timers VBA wrapper class (Timer)
+* Calendar Date Picker VBA form (Calendar...)
+* Helpers to manage Outlook Categories (Categories, Projects)
+* Remove excess paragraphs and formatting from email responses (Cleanup, Response)
+* Replace Custom Form VBScript with VBA (CustForm...)
+* Flag for Follow Up custom form and support functions (FollowUp...)
+* Wrappers for common Word Editor operations (Word, Format)
+* Helpers for generating and managing Hyperlinks between Outlook items (HypLnk, HotRodGUID)
+* Helpers for IMAP accounts (IMAP, Mail)
+* Enhanced MsgBox wrapper (Msg)
+* Execute an Outlook VBA Sub/Func (with arguments) from an AutoIt Script (ProcXeq)
+* Lock Outlook Views to prevent accidental changes (ViewLock)
