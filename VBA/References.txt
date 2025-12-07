@@ -1,0 +1,9 @@
+﻿VBA|Visual Basic For Applications|{000204EF-0000-0000-C000-000000000046}|4|1|C:\PROGRA~2\COMMON~1\MICROS~1\VBA\VBA7\VBE7.DLL
+Outlook|Microsoft Outlook 14.0 Object Library|{00062FFF-0000-0000-C000-000000000046}|9|4|C:\Program Files (x86)\Microsoft Office\Office14\MSOUTL.OLB
+stdole|OLE Automation|{00020430-0000-0000-C000-000000000046}|2|0|C:\Windows\SysWOW64\stdole2.tlb
+Office|Microsoft Office 14.0 Object Library|{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}|2|5|C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE14\MSO.DLL
+MSForms|Microsoft Forms 2.0 Object Library|{0D452EE1-E08F-101A-852E-02608C4D0BB4}|2|0|C:\WINDOWS\SysWOW64\FM20.DLL
+Scripting|Microsoft Scripting Runtime|{420B2830-E718-11CF-893D-00A0C9054228}|1|0|C:\Windows\SysWOW64\scrrun.dll
+Shell32|Microsoft Shell Controls And Automation|{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}|1|0|C:\Windows\SysWOW64\shell32.dll
+Word|Microsoft Word 14.0 Object Library|{00020905-0000-0000-C000-000000000046}|8|5|C:\Program Files (x86)\Microsoft Office\Office14\MSWORD.OLB
+IWshRuntimeLibrary|Windows Script Host Object Model|{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}|1|0|C:\Windows\SysWOW64\wshom.ocx
