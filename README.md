@@ -14,4 +14,4 @@ Collection of Outlook VBA and AutoIt Scripts to help automate Outlook.
 * Enhanced MsgBox wrapper (Msg)
 * Execute an Outlook VBA Sub/Func (with arguments) from an AutoIt Script (ProcXeq)
 * Lock Outlook Views to prevent accidental changes (ViewLock)
-* Export mail in a custom format (other than Memo) as a PDF (Mail)
+* Export mail as a PDF in a custom format (other than Memo) (Mail)
